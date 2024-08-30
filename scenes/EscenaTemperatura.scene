@@ -1,0 +1,153 @@
+{
+    "id": "d3f6d57d-ef3a-47a9-93a6-7546d61298e1",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "EscenaTemperatura",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "9018e0ac-1d0f-4f67-aa36-e29782015693",
+            "label": "rectangle_1",
+            "x": 641,
+            "y": 363,
+            "scaleX": 10.3,
+            "scaleY": 6,
+            "isFilled": true,
+            "fillColor": "353B5D",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "134902d0-9b7d-4313-9c52-ab1b47f4f129",
+            "label": "fondo_para_agua_1",
+            "texture": {
+                "key": "Fondo para agua 1"
+            },
+            "x": 648,
+            "y": 366,
+            "scaleX": 0.73,
+            "scaleY": 0.68
+        },
+        {
+            "type": "Image",
+            "id": "159da32f-35ba-427c-9312-481835419d2c",
+            "label": "termometro_1",
+            "texture": {
+                "key": "termometro 1"
+            },
+            "x": 268,
+            "y": 338,
+            "scaleX": 0.55,
+            "scaleY": 0.55
+        },
+        {
+            "type": "Image",
+            "id": "637b9ee9-ff0e-4ed0-b153-7583dbd3f755",
+            "label": "termometroCongelado",
+            "texture": {
+                "key": "TermometroCongelado"
+            },
+            "x": 1043,
+            "y": 338,
+            "scaleX": 0.55,
+            "scaleY": 0.55
+        },
+        {
+            "type": "Image",
+            "id": "4531bb4e-93d8-43c5-add0-5730804d0a65",
+            "label": "evacua_el_agua_caliente_del_sistemas",
+            "texture": {
+                "key": "Evacua el agua caliente del sistemas"
+            },
+            "x": 657,
+            "y": 119,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "681f5ca8-1cdc-422e-acd6-ca2344ba43eb",
+            "label": "agua_pixel_1",
+            "texture": {
+                "key": "agua pixel 1"
+            },
+            "x": 650,
+            "y": 353,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "3f7f925e-843a-49cb-a70f-5a1cfe3575db",
+            "label": "component_1",
+            "texture": {
+                "key": "Component 1"
+            },
+            "x": 1087,
+            "y": 564,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "7445386d-4667-4b0e-ad47-20bfaea0735a",
+            "label": "component",
+            "texture": {
+                "key": "Component"
+            },
+            "x": 318,
+            "y": 564,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "ebea7eda-be01-44fd-a882-acffc122f2b8",
+            "label": "nuclear_sharp",
+            "texture": {
+                "key": "nuclear-sharp"
+            },
+            "x": 39,
+            "y": 40,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "66de59f2-2014-440c-bcb6-ec405c5b9b99",
+            "label": "desactivavionN",
+            "texture": {
+                "key": "DesactivavionN"
+            },
+            "x": 333,
+            "y": 38,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        },
+        {
+            "type": "Image",
+            "id": "23d5eae5-59fa-458f-8509-98657f0cb53c",
+            "label": "mensajeAlertAgua",
+            "texture": {
+                "key": "MensajeAlertAgua"
+            },
+            "x": 638,
+            "y": -258,
+            "scaleX": 0.65,
+            "scaleY": 0.65
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

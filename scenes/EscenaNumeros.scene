@@ -1,0 +1,111 @@
+{
+    "id": "d7c0bea5-1267-4bf0-bbfe-a673a354cd88",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "EscenaNumeros",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "bec28143-c5bc-43b0-b876-1e28ffa1cab4",
+            "label": "rectangle_1",
+            "x": 633,
+            "y": 363,
+            "scaleX": 10.3,
+            "scaleY": 6,
+            "isFilled": true,
+            "fillColor": "353B5D",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "97985efa-2116-4f48-9b98-385ff826fdaf",
+            "label": "imagenNumeros",
+            "texture": {
+                "key": "ImagenNumeros"
+            },
+            "x": 641,
+            "y": 366,
+            "scaleX": 0.72,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "b875c6be-f676-44d7-aaba-e30befa46bdc",
+            "label": "encuentra_los_3_numeros_escondidos_Haz_clic_encima_del_n_mero",
+            "texture": {
+                "key": "Encuentra los 3 numeros escondidos Haz clic encima del número"
+            },
+            "x": 647,
+            "y": 695,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "324f95c3-80f1-4ed4-9008-078951692d71",
+            "label": "1",
+            "texture": {
+                "key": "1"
+            },
+            "x": 125,
+            "y": 587
+        },
+        {
+            "type": "Image",
+            "id": "5a4e812b-bd2e-4699-9b26-ab939d85bbe4",
+            "label": "3",
+            "texture": {
+                "key": "3"
+            },
+            "x": 1411,
+            "y": 293
+        },
+        {
+            "type": "Image",
+            "id": "efff2ec6-7c36-4ca3-a0c5-99f3bc382624",
+            "label": "9",
+            "texture": {
+                "key": "9"
+            },
+            "x": 502,
+            "y": -83
+        },
+        {
+            "type": "Image",
+            "id": "8e6b829a-caa5-4655-9772-fccbfcb16a27",
+            "label": "nuclear_sharp",
+            "texture": {
+                "key": "nuclear-sharp"
+            },
+            "x": 32,
+            "y": 33,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "0545ccd4-8af0-45d3-b24a-c9300b311a60",
+            "label": "desactivavionN",
+            "texture": {
+                "key": "DesactivavionN"
+            },
+            "x": 323,
+            "y": 35,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

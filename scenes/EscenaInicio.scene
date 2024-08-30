@@ -1,0 +1,80 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "cfe6ca1a-4270-442e-a5c7-ed816d3be374",
+            "label": "rectangle_1",
+            "texture": {
+                "key": "Rectangle 1"
+            },
+            "x": 643,
+            "y": 358,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "f56e8f7f-c9ac-4d84-bece-c0e08511d7e9",
+            "label": "cientifica",
+            "texture": {
+                "key": "Cientifica"
+            },
+            "x": 1191,
+            "y": 508,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "47bd80c8-117f-45df-b370-f84e49af67a4",
+            "label": "zombie",
+            "texture": {
+                "key": "zombie"
+            },
+            "x": 72,
+            "y": 508,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "ce5faabe-c6ae-486b-9d81-6570dba5ec1c",
+            "label": "sTARTOriginal",
+            "texture": {
+                "key": "STARTOriginal"
+            },
+            "x": 649,
+            "y": 114,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "7a66c3a2-485d-4a98-975c-ad407ed46826",
+            "label": "boton_startO",
+            "texture": {
+                "key": "Boton startO"
+            },
+            "x": 662,
+            "y": 474,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

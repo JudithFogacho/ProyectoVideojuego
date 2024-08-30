@@ -1,0 +1,69 @@
+{
+    "id": "8d609380-f936-4bcf-a47c-d9e88f89b5e0",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "EscenaFinal",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "f059517f-d5d9-429d-9dd1-59d0875e0ad3",
+            "label": "rectangle_1",
+            "x": 632,
+            "y": 337,
+            "scaleX": 10.5,
+            "scaleY": 6.3,
+            "isFilled": true,
+            "fillColor": "353B5D",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "96dd64ca-5a92-4c81-a5ed-51cb6a5fdb4f",
+            "label": "congratulation",
+            "texture": {
+                "key": "congratulation"
+            },
+            "x": 637,
+            "y": 372,
+            "scaleX": 0.71,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "498dd6c9-df7f-47c4-9d68-df127bcfbf9a",
+            "label": "nuclear_sharp",
+            "texture": {
+                "key": "nuclear-sharp"
+            },
+            "x": 33,
+            "y": 31,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "4cfed30e-4a65-4568-9da1-673b5cd108ee",
+            "label": "desactivavionN",
+            "texture": {
+                "key": "DesactivavionN"
+            },
+            "x": 332,
+            "y": 30,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

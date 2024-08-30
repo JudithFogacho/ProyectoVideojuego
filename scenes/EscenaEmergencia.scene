@@ -1,0 +1,129 @@
+{
+    "id": "c55efb53-2cca-47ba-8370-951a9b2d8bbf",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "EscenaEmergencia",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "f708cead-4f9a-49c2-b582-4da23d74a52c",
+            "label": "rectangle_1",
+            "x": 645,
+            "y": 365,
+            "scaleX": 10.3,
+            "scaleY": 6,
+            "isFilled": true,
+            "fillColor": "353B5D",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "f15421b0-e57e-41bf-bceb-5242a030d030",
+            "label": "franja",
+            "texture": {
+                "key": "Franja"
+            },
+            "x": 636,
+            "y": 358,
+            "scaleX": 0.73,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "7eface19-6ad2-44e1-ae5a-133f160bb021",
+            "label": "panelAguaApagado",
+            "texture": {
+                "key": "PanelAguaApagado"
+            },
+            "x": 98,
+            "y": 363,
+            "scaleX": 0.65,
+            "scaleY": 0.65
+        },
+        {
+            "type": "Image",
+            "id": "46cbf2e6-4bfc-4d76-b69e-671f7a97748a",
+            "label": "panelReactorApagado",
+            "texture": {
+                "key": "PanelReactorApagado"
+            },
+            "x": 578,
+            "y": 363,
+            "scaleX": 0.65,
+            "scaleY": 0.65
+        },
+        {
+            "type": "Image",
+            "id": "bdfead69-e4a0-4423-9150-8b7c9a97d785",
+            "label": "panelBtEmergencia",
+            "texture": {
+                "key": "PanelBtEmergencia"
+            },
+            "x": 1029,
+            "y": 363,
+            "scaleX": 0.65,
+            "scaleY": 0.65
+        },
+        {
+            "type": "Image",
+            "id": "b477dd29-161b-49a5-87ab-44bb468b5f1c",
+            "label": "boton_Apagar",
+            "texture": {
+                "key": "Boton Apagar"
+            },
+            "x": 1018,
+            "y": 528,
+            "scaleX": 0.65,
+            "scaleY": 0.65
+        },
+        {
+            "type": "Image",
+            "id": "d5d9fc8b-fd08-48d2-b262-66b8a0d61e07",
+            "label": "mensajeBrnEmergencia",
+            "texture": {
+                "key": "MensajeBrnEmergencia"
+            },
+            "x": 325,
+            "y": 438,
+            "scaleX": 0.75,
+            "scaleY": 0.75
+        },
+        {
+            "type": "Image",
+            "id": "56a2505f-ef90-4f72-bc96-6c3ad65b6306",
+            "label": "nuclear_sharp",
+            "texture": {
+                "key": "nuclear-sharp"
+            },
+            "x": 27,
+            "y": 28,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "073ed210-b6b1-40e7-ae87-c9ab68be530d",
+            "label": "desactivavionN",
+            "texture": {
+                "key": "DesactivavionN"
+            },
+            "x": 326,
+            "y": 26,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

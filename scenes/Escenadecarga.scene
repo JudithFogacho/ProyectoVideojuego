@@ -1,0 +1,68 @@
+{
+    "id": "93f32258-d59a-49df-ba1e-f57d588046a5",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Escenadecarga",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "2def1eb8-5711-4149-80f4-5650d0a809df",
+            "label": "rectangle",
+            "texture": {
+                "key": "Rectangle"
+            },
+            "x": 635,
+            "y": 357,
+            "scaleX": 0.75,
+            "scaleY": 0.73
+        },
+        {
+            "type": "Image",
+            "id": "b7d64cff-7cae-48f0-916b-58bd7ca28535",
+            "label": "ellipse_1",
+            "texture": {
+                "key": "Ellipse 1"
+            },
+            "x": 942,
+            "y": 407,
+            "scaleX": 0.68,
+            "scaleY": 0.65
+        },
+        {
+            "type": "Image",
+            "id": "7b2f49a9-0bf5-4c1e-9cda-336f2d22561f",
+            "label": "puntoCarga",
+            "texture": {
+                "key": "PuntoCarga"
+            },
+            "x": 577,
+            "y": 626,
+            "scaleX": 0.8,
+            "scaleY": 0.73
+        },
+        {
+            "type": "Image",
+            "id": "f83ec1c5-cc5b-46ee-967d-e742d2d1e9d1",
+            "label": "puntoCarga_1",
+            "texture": {
+                "key": "PuntoCarga"
+            },
+            "x": 599,
+            "y": 626,
+            "scaleX": 0.8,
+            "scaleY": 0.73
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

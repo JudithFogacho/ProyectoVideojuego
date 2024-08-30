@@ -1,0 +1,139 @@
+{
+    "id": "8a76f792-dc1c-4e46-81a7-ce1de0cbb511",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Escenallaves",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "028f3190-d60c-4cae-9b89-6a0f15567500",
+            "label": "rectangle_1",
+            "x": 640,
+            "y": 357,
+            "scaleX": 10.5,
+            "scaleY": 6,
+            "isFilled": true,
+            "fillColor": "353B5D",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "685f8592-52e0-473d-a33e-23d98a419080",
+            "label": "fondo_vd_1",
+            "texture": {
+                "key": "Fondo vd 1"
+            },
+            "x": 634,
+            "y": 371,
+            "scaleX": 0.73,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "20b94edc-7f44-4344-ac93-f7e56056b763",
+            "label": "lLaveIncorrecta1",
+            "texture": {
+                "key": "LLaveIncorrecta1"
+            },
+            "x": 911,
+            "y": 550,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "f397097c-09de-4c04-8b24-d3dc585cf17c",
+            "label": "llaveIncorrecta2",
+            "texture": {
+                "key": "LlaveIncorrecta2"
+            },
+            "x": 118,
+            "y": 381
+        },
+        {
+            "type": "Image",
+            "id": "440dd297-d72c-4786-95cc-b5c31e032498",
+            "label": "llaveiIncorrecta3",
+            "texture": {
+                "key": "LlaveiIncorrecta3"
+            },
+            "x": 1038,
+            "y": 377,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "908db9f9-0ff4-40d4-ba26-67188f9de2ac",
+            "label": "llaveCorrecta",
+            "texture": {
+                "key": "LlaveCorrecta"
+            },
+            "x": 829,
+            "y": 99,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "9b9f1720-07ae-4cdf-a16d-e290aea4a47a",
+            "label": "nuclear_sharp",
+            "texture": {
+                "key": "nuclear-sharp"
+            },
+            "x": 32,
+            "y": 30,
+            "scaleX": 0.65,
+            "scaleY": 0.65
+        },
+        {
+            "type": "Image",
+            "id": "f7e43e83-d3bd-486c-b9ed-07d1e2287bc3",
+            "label": "desactivavionN",
+            "texture": {
+                "key": "DesactivavionN"
+            },
+            "x": 333,
+            "y": 30,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        },
+        {
+            "type": "Image",
+            "id": "444f4bf6-5cee-4074-8e32-34db96ebd406",
+            "label": "mensajeAlertaCoorrecto",
+            "texture": {
+                "key": "MensajeAlertaCoorrecto"
+            },
+            "x": 670,
+            "y": 987,
+            "scaleX": 0.64,
+            "scaleY": 0.64
+        },
+        {
+            "type": "Image",
+            "id": "65fd5cf7-cc5c-4f71-bdf4-fbb35a2783f1",
+            "label": "mensajeAlertaLlaves",
+            "texture": {
+                "key": "MensajeAlertaLlaves"
+            },
+            "x": 669,
+            "y": -318,
+            "scaleX": 0.64,
+            "scaleY": 0.64
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

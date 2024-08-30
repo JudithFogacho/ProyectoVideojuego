@@ -1,0 +1,81 @@
+{
+    "id": "7a23f3a8-9ddb-4418-9011-aad642a24f43",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "EscenaBoton",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "046723b9-c96f-4f89-ae7b-a78d4389cd25",
+            "label": "rectangle_1",
+            "x": 642,
+            "y": 356,
+            "scaleX": 10.5,
+            "scaleY": 6,
+            "isFilled": true,
+            "fillColor": "353B5D",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "38787915-8182-4ab0-a68d-1b695b727ed1",
+            "label": "franjaEmergencia",
+            "texture": {
+                "key": "FranjaEmergencia"
+            },
+            "x": 622,
+            "y": 365,
+            "scaleX": 0.75,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "89b6c87a-4c90-4734-8c77-7c383f13d0be",
+            "label": "botn",
+            "texture": {
+                "key": "botn"
+            },
+            "x": 654,
+            "y": 370,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "52b5f040-7f24-4a72-8acb-69b3c622cf6c",
+            "label": "nuclear_sharp",
+            "texture": {
+                "key": "nuclear-sharp"
+            },
+            "x": 29,
+            "y": 29,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "35e1ac8e-2a37-4668-b030-cd752e3ce3f3",
+            "label": "desactivavionN",
+            "texture": {
+                "key": "DesactivavionN"
+            },
+            "x": 315,
+            "y": 29,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

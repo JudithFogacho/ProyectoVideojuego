@@ -1,0 +1,141 @@
+{
+    "id": "5f38b269-e247-4b69-8a0a-eb5699f9e524",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "EscenaPalancas",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "efacbffc-2a58-4b5e-9d6c-b107113c60cb",
+            "label": "rectangle_1",
+            "x": 646,
+            "y": 354,
+            "scaleX": 10.3,
+            "scaleY": 5.9,
+            "isFilled": true,
+            "fillColor": "353B5D",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "ab9f17be-d080-481d-905c-835d5b30b027",
+            "label": "rectangle_2",
+            "texture": {
+                "key": "Rectangle 2"
+            },
+            "x": 637,
+            "y": 365,
+            "scaleX": 0.73,
+            "scaleY": 0.68
+        },
+        {
+            "type": "Image",
+            "id": "e6fd4a6d-7def-4b87-abf7-8dd9fe33df3e",
+            "label": "palanca_1",
+            "texture": {
+                "key": "Palanca1"
+            },
+            "x": 123,
+            "y": 342,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "a3260eb1-91f2-4ffa-8adb-37b599bfdb68",
+            "label": "mensajeReactorPalanzcas",
+            "texture": {
+                "key": "MensajeReactorPalanzcas"
+            },
+            "x": 1020,
+            "y": 440,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        },
+        {
+            "type": "Image",
+            "id": "f221369b-7d73-4f4c-8749-5facf4321ad9",
+            "label": "nuclear_sharp",
+            "texture": {
+                "key": "nuclear-sharp"
+            },
+            "x": 34,
+            "y": 34,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "5d6249dc-d70c-42d7-bbe5-07aa4ba8869f",
+            "label": "desactivavionN",
+            "texture": {
+                "key": "DesactivavionN"
+            },
+            "x": 370,
+            "y": 34,
+            "scaleX": 0.35,
+            "scaleY": 0.35
+        },
+        {
+            "type": "Image",
+            "id": "ff68a9f3-b47e-4351-b254-307523d8bb77",
+            "label": "palanca",
+            "texture": {
+                "key": "Palanca1"
+            },
+            "x": 315,
+            "y": 342,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "ff6760cd-a794-4cc7-bd49-804f76f24a7a",
+            "label": "palanca_2",
+            "texture": {
+                "key": "Palanca1"
+            },
+            "x": 512,
+            "y": 342,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "01b3f195-f040-40d4-bf6c-ab5a9592fa9f",
+            "label": "palanca_invertida",
+            "texture": {
+                "key": "Palanca invertida"
+            },
+            "x": -575,
+            "y": 632,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "530e0ed6-2eab-4851-875c-db4f7a0d3348",
+            "label": "mensajeAlertaPalanca",
+            "texture": {
+                "key": "MensajeAlertaPalanca"
+            },
+            "x": -713,
+            "y": 106,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}
